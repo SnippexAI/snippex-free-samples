@@ -6,7 +6,7 @@ He is an entertaining comedian and exceptional storyteller who finds absurdities
 
 ## Chuck Chuckling's Bookshelf
 
-Below is a list of some books I summarized, enjoy!
+Below, you'll find a list of books Chuck have brilliantly summarized for your enjoyment!
 
 ### 5 Love Languages
 
