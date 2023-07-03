@@ -1,4 +1,5 @@
-# The Nature of Personal Reality: Specific, Practical Techniques for Solving Everyday Problems and Enriching the Life You Know by Jane Roberts
+# The Nature of Personal Reality told by Karrie Karma
+This is summary of The Nature of Personal Reality: Specific, Practical Techniques for Solving Everyday Problems and Enriching the Life You Know by Jane Roberts.
 
 ## 01 | The Living Picture of the World
 
