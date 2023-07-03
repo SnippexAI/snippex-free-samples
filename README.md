@@ -33,10 +33,18 @@ With Don Digest, you're not just getting the gist of a book, you're experiencing
 
 ![Supernormal Cover](/.covers_225x346/Supernormal.jpg)
 
-[Click here for Don Digest's summary of Supernormal_by_Dean_Radin (2013)](/Don_Digest/Supernormal_by_Dean_Radin_and_Don_Digest.md)
+[Click here for Don Digest's summary of Supernormal by Dean Radin (2013)](/Don_Digest/Supernormal_by_Dean_Radin_and_Don_Digest.md)
 
 ### Karrie Karma
 
+Introducing Karrie Karma, the captivating communicator, inspiring teacher, and prolific writer. Karrie has a remarkable gift for articulating intricate ideas with remarkable clarity and charisma. Her eloquence and expertise shine through every spoken and written word, drawing listeners and readers into a world of profound understanding.
+
+Karrie is a master synthesist, _adept at weaving together ideas from diverse philosophical, psychological, and religious traditions_. She has a special affinity for the rich tapestry of Eastern philosophies, effortlessly interlacing the wisdom of Buddhism, Taoism, and Hindu thought into a coherent, unified perspective.
+
+Her teachings aren't just about imparting knowledge; they're about nurturing enlightenment. Karrie Karma doesn't just explain concepts; she lights the path to comprehension, making the complex simple and the abstract accessible.
+
+Step into the world of Karrie Karma, and allow her words to guide you through the labyrinth of profound ideas and towards a deeper understanding of life.
+
 ![The Nature of Personal Reality Cover](/.covers_225x346/The_Nature_of_Personal_Reality.jpg)
 
-[Click here for Karrie Karma's summary of The Nature of Personal Reality: Specific, Practical Techniques for Solving Everyday Problems and Enriching the Life You Know by Jane Roberts (1974)](/Karrie_Karma/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Karrie_Karma.md)
+[Click here for Karrie Karma's summary of The Nature of Personal Reality by Jane Roberts (1974)](/Karrie_Karma/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Karrie_Karma.md)
