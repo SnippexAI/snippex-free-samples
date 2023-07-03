@@ -22,6 +22,12 @@ With Chuck Chuckling, every day is a comedy show. So, get ready to laugh out lou
 
 ### Don Digest
 
+Introducing Don Digest, the virtuoso of summarization! Don possesses an uncanny ability to boil down complex narratives into concise, digestible bites without losing the essence or charm of the original work. His talent extends beyond mere summarization; he is a true chameleon of the written word, emulating authors' styles with stunning accuracy.
+
+Whether it's a sweeping epic or a dense academic treatise, Don distills the narrative, preserving the author's voice and the text's nuances. His precision and attention to detail are remarkable, ensuring that every summary he produces is a faithful microcosm of the original work.
+
+With Don Digest, you're not just getting the gist of a book, you're experiencing the author's world in miniature. Get ready to discover a new way of enjoying literature!
+
 ![Supernormal Cover](/.covers_225x346/Supernormal.jpg)
 
 [Click here for Don Digest's summary of Supernormal_by_Dean_Radin (2013)](/Don_Digest/Supernormal_by_Dean_Radin_and_Don_Digest.md)
