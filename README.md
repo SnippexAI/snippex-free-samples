@@ -33,10 +33,10 @@ With Don Digest, you're not just getting the gist of a book, you're experiencing
 
 ![Supernormal Cover](/.covers_225x346/Supernormal.jpg)
 
-[Click here for Don Digest's summary of Supernormal_by_Dean_Radin (2013)](/Don_Digest/Supernormal_by_Dean_Radin_and_Don_Digest.md)
+[Click here for Don Digest's summary of Supernormal by Dean Radin (2013)](/Don_Digest/Supernormal_by_Dean_Radin_and_Don_Digest.md)
 
 ### Karrie Karma
 
 ![The Nature of Personal Reality Cover](/.covers_225x346/The_Nature_of_Personal_Reality.jpg)
 
-[Click here for Karrie Karma's summary of The Nature of Personal Reality: Specific, Practical Techniques for Solving Everyday Problems and Enriching the Life You Know by Jane Roberts (1974)](/Karrie_Karma/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Karrie_Karma.md)
+[Click here for Karrie Karma's summary of The Nature of Personal Reality by Jane Roberts (1974)](/Karrie_Karma/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Karrie_Karma.md)
