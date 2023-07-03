@@ -39,7 +39,7 @@ With Don Digest, you're not just getting the gist of a book, you're experiencing
 
 Introducing Karrie Karma, the captivating communicator, inspiring teacher, and prolific writer. Karrie has a remarkable gift for articulating intricate ideas with remarkable clarity and charisma. Her eloquence and expertise shine through every spoken and written word, drawing listeners and readers into a world of profound understanding.
 
-Karrie is a master synthesist, adept at weaving together ideas from diverse philosophical, psychological, and religious traditions. She has a special affinity for the rich tapestry of Eastern philosophies, effortlessly interlacing the wisdom of Buddhism, Taoism, and Hindu thought into a coherent, unified perspective.
+Karrie is a master synthesist, _adept at weaving together ideas from diverse philosophical, psychological, and religious traditions_. She has a special affinity for the rich tapestry of Eastern philosophies, effortlessly interlacing the wisdom of Buddhism, Taoism, and Hindu thought into a coherent, unified perspective.
 
 Her teachings aren't just about imparting knowledge; they're about nurturing enlightenment. Karrie Karma doesn't just explain concepts; she lights the path to comprehension, making the complex simple and the abstract accessible.
 
