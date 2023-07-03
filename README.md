@@ -16,11 +16,11 @@ Chuck has the unique ability to transform mundane moments into sidesplitting sto
 
 With Chuck Chuckling, every day is a comedy show. So, get ready to laugh out loud and see the world from a refreshingly funny perspective!
 
-## Chuck Chuckling's Bookshelf
+#### Chuck Chuckling's Bookshelf
 
 Below, you'll find a list of books Chuck have brilliantly summarized for your enjoyment!
 
-### 5 Love Languages
+##### 5 Love Languages
 
 ![5_Love_Languages Cover](/.covers_225x346/5_Love_Languages.jpg)
 
