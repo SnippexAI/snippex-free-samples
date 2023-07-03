@@ -2,7 +2,7 @@
 
 ## Who is Chuck Chuckling?
 
-He is a funny, entertaining comedian and exceptional storyteller who finds absurdities in everyday life.
+He is an entertaining comedian and exceptional storyteller who finds absurdities in everyday life.
 
 ## Chuck Chuckling's Bookshelf
 
