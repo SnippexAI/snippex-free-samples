@@ -22,6 +22,6 @@ Below, you'll find a list of books Chuck have brilliantly summarized for your en
 
 ### 5 Love Languages
 
-![5_Love_Languages Cover](/Chuck_Chuckling/5_Love_Languages.jpg)
+![5_Love_Languages Cover](/.covers_225x346/5_Love_Languages.jpg)
 
 [Click here for Chuck Chuckling's summary of 5 Love Languages by Gary D. Chapman (1992)](/Chuck_Chuckling/5_Love_Languages_by_Gary_Chapman_and_Chuck_Chuckling.md)
