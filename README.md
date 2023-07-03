@@ -19,3 +19,9 @@ With Chuck Chuckling, every day is a comedy show. So, get ready to laugh out lou
 ![5_Love_Languages Cover](/.covers_225x346/5_Love_Languages.jpg)
 
 [Click here for Chuck Chuckling's summary of 5 Love Languages by Gary D. Chapman (1992)](/Chuck_Chuckling/5_Love_Languages_by_Gary_Chapman_and_Chuck_Chuckling.md)
+
+### Don Digest
+
+![Supernormal Cover](/.covers_225x346/Supernormal.jpg)
+
+[Click here for Don Digest's summary of Supernormal_by_Dean_Radin (2013)](/Don_Digest/Supernormal_by_Dean_Radin_and_Don_Digest.md)
