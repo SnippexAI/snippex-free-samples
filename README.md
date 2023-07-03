@@ -20,6 +20,7 @@ With Chuck Chuckling, every day is a comedy show. So, get ready to laugh out lou
 ![Art of Lucid Dreaming Cover](/.covers_225x346/Art_of_Lucid_Dreaming.jpg)
 
 [Click here for Chuck Chuckling's summary of 5 Love Languages by Gary D. Chapman (1992)](/Chuck_Chuckling/5_Love_Languages_by_Gary_Chapman_and_Chuck_Chuckling.md)
+
 [Click here for Chuck Chuckling's summary of The Art of Lucid Dreaming by Clare R. Johnson (2020)](/Chuck_Chuckling/The_Art_of_Lucid_Dreaming_by_Clare_R._Johnson_and_Chuck_Chuckling.md)
 
 ### Don Digest
