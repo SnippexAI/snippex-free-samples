@@ -12,7 +12,7 @@ So why wait? Explore our expansive library and find your favorite literary voice
 
 Meet Chuck Chuckling, your go-to guy for a hearty dose of humor and a captivating storytelling experience! Chuck is not just a comedian, he's a maestro of mirth, weaving everyday absurdities into comic gold. His keen eye for the ludicrous in the ordinary and his knack for spinning these observations into hilariously relatable tales makes him an exceptional storyteller.
 
-Chuck has the unique ability to transform mundane moments into sidesplitting stories, making you view your daily life through a hilariously skewed lens. His infectious laughter and boundless energy are guaranteed to have you chuckling along.
+Chuck has the unique ability to **transform mundane moments into sidesplitting stories**, making you view your daily life through a hilariously skewed lens. His infectious laughter and boundless energy are guaranteed to have you chuckling along.
 
 With Chuck Chuckling, every day is a comedy show. So, get ready to laugh out loud and see the world from a refreshingly funny perspective!
 
@@ -22,7 +22,7 @@ With Chuck Chuckling, every day is a comedy show. So, get ready to laugh out lou
 
 ### Don Digest
 
-Introducing Don Digest, the virtuoso of summarization! Don possesses an uncanny ability to boil down complex narratives into concise, digestible bites without losing the essence or charm of the original work. His talent extends beyond mere summarization; he is a true chameleon of the written word, emulating authors' styles with stunning accuracy.
+Introducing Don Digest, the virtuoso of summarization! Don possesses an uncanny ability to boil down complex narratives into concise, digestible bites without losing the essence or charm of the original work. His talent extends beyond mere summarization; **he is a true chameleon of the written word, emulating authors' styles with stunning accuracy**.
 
 Whether it's a sweeping epic or a dense academic treatise, Don distills the narrative, preserving the author's voice and the text's nuances. His precision and attention to detail are remarkable, ensuring that every summary he produces is a faithful microcosm of the original work.
 
