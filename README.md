@@ -46,5 +46,8 @@ Her teachings aren't just about imparting knowledge; they're about nurturing enl
 Step into the world of Karrie Karma, and allow her words to guide you through the labyrinth of profound ideas and towards a deeper understanding of life.
 
 ![The Nature of Personal Reality Cover](/.covers_225x346/The_Nature_of_Personal_Reality.jpg)
+![Becoming Supernatural Cover](/.covers_225x346/Becoming_Supernatural.jpg.jpg)
 
 [Click here for Karrie Karma's summary of The Nature of Personal Reality by Jane Roberts (1974)](/Karrie_Karma/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Karrie_Karma.md)
+
+[Click here for Karrie Karma's summary of Becoming Supernatural by Dr. Joe Dispenza (2017)](/Karrie_Karma/Becoming_Supernatural_by_Dr_Joe_Dispenza_and_Karrie_Karma.md)
