@@ -239,7 +239,7 @@ Lastly, we delve into the concept of writing a book titled "Through My Eyes," a 
 
 In essence, our beliefs are powerful architects of our reality. They have a direct impact on our physical well-being and the reality we create for ourselves. Thus, understanding and harmonizing our beliefs is vital to creating a balanced and fulfilling life.
 
-### 07 | The Living Flesh
+## 07 | The Living Flesh
 
 ### The Dance of Consciousness and the Physical
 
