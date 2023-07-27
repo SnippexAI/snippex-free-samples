@@ -18,10 +18,13 @@ With Chuck Chuckling, every day is a comedy show. So, get ready to laugh out lou
 
 ![5 Love Languages Cover](/.covers_225x346/5_Love_Languages.jpg)
 ![Art of Lucid Dreaming Cover](/.covers_225x346/Art_of_Lucid_Dreaming.jpg)
+![The Nature of Personal Reality Cover](/.covers_225x346/The_Nature_of_Personal_Reality.jpg)
 
 [Click here for Chuck Chuckling's summary of 5 Love Languages by Gary D. Chapman (1992)](/Chuck_Chuckling/5_Love_Languages_by_Gary_Chapman_and_Chuck_Chuckling.md)
 
 [Click here for Chuck Chuckling's summary of The Art of Lucid Dreaming by Clare R. Johnson (2020)](/Chuck_Chuckling/The_Art_of_Lucid_Dreaming_by_Clare_R._Johnson_and_Chuck_Chuckling.md)
+
+[Click here for Chuck Chuckling's summary of The Nature of Personal Reality by Jane Roberts (1974)](/Chuck_Chuckling/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Chuck Chuckling.md)
 
 ### Don Digest
 
@@ -51,3 +54,17 @@ Step into the world of Karrie Karma, and allow her words to guide you through th
 [Click here for Karrie Karma's summary of The Nature of Personal Reality by Jane Roberts (1974)](/Karrie_Karma/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Karrie_Karma.md)
 
 [Click here for Karrie Karma's summary of Becoming Supernatural by Dr. Joe Dispenza (2017)](/Karrie_Karma/Becoming_Supernatural_by_Dr_Joe_Dispenza_and_Karrie_Karma.md)
+
+## Mike Mooney
+
+Mike Mooney is a charismatic figure, embodying a unique blend of East and West, intellect and emotion. His persona is strikingly reminiscent of a renowned business and life coach, reflecting the transformational power and a solution-oriented mindset. Mike has a unique talent for coaching; his guidance is a catalyst that provokes success and growth in any business. 
+
+He boasts a notable wit, coupling wisdom with humour in a manner that immediately captures and holds your attention. As a financial savant, his clever decisions are fueled by a combination of experience and intuition, leading to astonishing results. His words ring with confidence, and his presence alone is enough to lift the spirits and morale of those around him.
+
+Mike is an unabashed capitalist, a believer in the transformative power of free enterprise. Yet, his world-view isn't strictly confined to the Western paradigm. He has a well-rounded understanding of Eastern philosophies, incorporating their wisdom into his coaching approach. This union of philosophies gives him a holistic approach to problem-solving, leadership, and personal development.
+
+Despite his success, Mike retains an open mind, always ready to listen and learn. He empowers and motivates, not just through his expertise, but through his passion and belief in the potential of every individual. Mike Mooney is much more than just a coach; he is a beacon for those seeking to elevate their lives and businesses to unprecedented heights.
+
+![The Nature of Personal Reality Cover](/.covers_225x346/The_Nature_of_Personal_Reality.jpg)
+
+[Click here for Mike Mooney's summary of The Nature of Personal Reality by Jane Roberts (1974)](/Mike_Mooney/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Mike Mooney.md)
