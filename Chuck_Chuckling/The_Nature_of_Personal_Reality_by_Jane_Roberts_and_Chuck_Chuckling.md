@@ -672,3 +672,133 @@ In the end, Jane concludes that a sense of power is essential for any creature. 
 
 Anyway, I think I need a break. And probably a drink. Who's with me?
 
+## 19 | The Concentration of Energy, Beliefs, and the Present Point of Power
+
+### The Great Misconception
+
+Alright folks, I'd like you to meet *Ruburt* - a man with *special abilities* who, shockingly, has problems and challenges in life just like the rest of us mere mortals. Yes, contrary to what you might think, he doesn't spend his days floating on a cloud of contentment, free from all worldly worries. I mean, can you imagine that?
+
+Jane Roberts here is trying to tell us that such a state of peace where all problems are magically solved is as real as my chances of becoming the next Pope. Apparently, we *choose* our life situations before birth, like picking out an outfit for a party. And just like that outfit, sometimes we concentrate too much on the sequined shirt and forget the pants!
+
+### The Power of Now (and Belief)
+
+Now, here's where things get *interesting*. Roberts says we can change our circumstances in the present moment. Got an incurable disease? No problem! Just believe in the possibility of recovery and *poof*! You're healed! 
+
+She also tells us that we choose our birth defects and challenges for personal growth. I mean, who wouldn't want to explore the exciting aspects of having a third nipple? 
+
+### Soul and Flesh Junction and Time Warp
+
+Then comes the intersection of soul and flesh, folks, where energy fluctuates resulting in major changes over a span of two thousand years. I guess that's just a really long traffic light. 
+
+And, of course, certain times are more effective for communication in the dream state. Now, I wonder if there's a preferred time for telepathic communication with my ex?
+
+### The Amazing Power of Imagination 
+
+Lastly, Roberts talks about the power of imagination. She says that if you imagine yourself in a loving relationship, you can attract love into your life. So, for all you single folks out there, maybe it's time to dream up that perfect partner. Just remember to keep it realistic, Brad Pitt's probably not available.
+
+### And... Cut!
+
+And just when you thought things couldn't get any weirder, the section ends with a break where Roberts chats about her dreams from the previous night. I guess even in the world of metaphysical reality, everyone needs a coffee break.
+
+## 20 | The Dream Landscape, the Physical World, Probabilities, and Your Daily Experience
+
+### The Chuckling Guide to Dreamland
+
+In the book of life, Jane Roberts has a chapter titled *'The Nature of Personal Reality'*. She dives into this dreamland where dreams are *unique* and *original* experiences. Like, you're not going to find a factory with a conveyor belt of dreams, each one identical. Nope, each one is a *one-of-a-kind* masterpiece, just like you.
+
+### Instant Gratification Dreamworld
+
+In dreamland, the laws of physics are on vacation. Your thoughts materialize instantly like *poof*, there it is! Apparently, dreams are this creative playground where you pick and choose experiences like you're in a candy store. But don't expect any logic, because dreams ain't got time for that. They're too busy being a kaleidoscope of feelings and beliefs.
+
+### The Grand Dream Delusion
+
+Jane suggests that it's possible to drag your conscious mind into this dream state, like a parent taking their kid to a playground. And, don't be scared of your dreams, kids! They're just your brain's in-house solution machine. They can help you solve problems and give you extra energy, especially when life gets stressful. 
+
+### Warp Speed Reality 
+
+In our physical world, we interpret everything in terms of senses. Even our dreams. But dreams can give us a peek into some crazy stuff like the past, present, and future occupying the same space. Whoa, right? It's like space itself is on steroids, accelerating in ways we can't comprehend. 
+
+### The Mind-Brain Tango
+
+Jane explains that our beliefs play DJ to the brain, activating different areas, and influencing the non-physical actions of the mind. Sure, the physical reality is unique, but without dreams, we'd be stuck in it, scared to explore new ideas. 
+
+### The Dream Decoder 
+
+Your beliefs about dreams can shape your experiences. If you think dreams are wicked, they will be. If you believe you don't dream, you'll forget them. But hey, just like your waking life, dreams are private. There's also a communal experience where you find your place and accept or reject events. 
+
+### The Dream War Room
+
+Did you know that wars are fought in the dream world first, and then history follows suit? Jane also suggests that dreams give us a broader perspective, free from the constraints of time and space. This allows for creative solutions that may seem poor in the short term but are seen as ingenious in the long run.
+
+### The Dream-Reality Dance 
+
+There's this give-and-take relationship between our waking and dream experiences. If you ask for solutions to your problems before sleep, you can tap into your dream knowledge and unleash your creativity. 
+
+### The Blueprint of Reality 
+
+Finally, Jane says that we're the architects of our reality. We have a set of blueprints for the kind of physical reality we want to materialize. These may show up in recurring or illuminating dreams, making our goals clear. So, trust in the dream state, use it as an ally, and believe in the value of dreams to increase their effectiveness. 
+
+In conclusion, Jane Roberts says life's a dream, so you better get good at lucid dreaming, kids!
+
+## 21 | Affirmation, Love, Acceptance, and Denial
+
+### The Universe's Top 10 Tips for Being a Human
+
+Welcome, folks! Let's dive into this swimming pool of wisdom, a little ditty by Jane Roberts. Now, don't get me wrong, I love Jane. She's like that aunt who always has a crystal for every ailment, and who's certain she was a cat in her past life. 
+
+### Say Yes to You
+
+First off, Jane's biggest thing is affirmation. Now, I'm not talking about those sticky notes on your bathroom mirror that say "you're beautiful", or "you'll nail that promotion". No, it's about saying "*yes*" to yourself. Sounds easy, right? But it's not just accepting that extra slice of pizza on a Friday night, it's about embracing the full spectacle of _you_. You with all your quirks, talents, and that weird mole on your back. 
+
+### Embrace Your Emotions
+
+Now, let's talk about denial. Not the river in Egypt, but the act of suppressing your emotions. Suppressing your feelings is like trying to hold a fart during a yoga class. Eventually, it's going to come out, and it won't be pleasant. So, let those emotions flow! Even if they're negative. Embrace them, feel them, let them out. They're a part of you. 
+
+### The Love-Hate Relationship 
+
+Next up, Jane brings up a good point about hatred. It's not a constant state. It's just like my ex-wife's love for me, it changes. Hatred is not inherently evil, it's a natural emotion. But let me tell you, when it's left alone, it doesn't usually lead to violence. Violence is often the result of feeling powerless, kind of like when you're trying to open a jar of pickles and you just can't get it.
+
+### World Wars and Powerlessness
+
+And speaking about powerlessness, Jane moves on to wars. Apparently, the second World War and many subsequent wars were fueled by a sense of powerlessness and a desire to assert power. Imagine that, a bunch of grown men throwing a tantrum just like little Timmy when he can't have his ice cream. 
+
+### The Belly Rub of Defeat 
+
+Now comes the part where Jane talks about showing one's belly as a sign of defeat. It's like when your dog exposes his belly for a rub, it's a sign of submission. But for humans, it's a bit more complicated. It's about surrendering to your own feelings and emotions. 
+
+### The Realities of Love and Hate
+
+And here's where I got a kick out of it. Jane says we only love or hate those we can identify with on some level. So, when someone fails to meet our expectations, we feel a painful separation from love. It's kind of like when your favorite TV show takes a nosedive in the final season. Oh, the pain!
+
+### The Art of Being
+
+Jane sums it all up by exploring the nature of personal experience and creativity. She encourages us to embrace our individuality, to trust and appreciate our physical bodies. Like she says, view your life as your most intimate work of art. 
+
+### The Spacious Mind
+
+And lastly, we have the "spacious mind". Now, this isn't about having an empty head. This is about the mind being a vast, endless space filled with possibilities. It's like the internet, but without the cat videos. 
+
+So, folks, that's Jane's guide to being a human. It's a wild ride, filled with affirmations, emotions, and spacious minds. And if you ask me, it's a pretty darn entertaining way to look at life.
+
+## 22 | Affirmation, the Practical Betterment of Your Life, and the New Structuring of Beliefs
+
+### "The Gospel of Self-Love and a Laundry List of Achievements"
+
+So, we got this Seth guy, right? He's all about *self-love* and *trusting your own direction*. Which, let's face it, sounds like a hippie guide to surviving a mid-life crisis. He's telling us to examine our beliefs about ourselves, jot down our feelings like we're in a therapy session, and to remember there's a difference between thinking you're unworthy and actual unworthiness. I mean, c'mon, we all know that second one is just a polite way of saying "you're not a complete screw-up".
+
+Seth then suggests we make a list of our accomplishments. Everything from big to small. Like, "Hey, I didn't burn the toast this morning. Put that in the win column, baby!" And he says everyone's got their own unique creative abilities. Like my exceptional talent to find the only shopping cart with a wonky wheel. That's art, right there. 
+
+Seth's big on not comparing yourself to others. Because it denies your uniqueness and vision. Sounds like the perfect excuse next time I'm caught wearing socks with sandals. "*It's my unique vision, Karen, you wouldn't understand.*"
+
+### "Believe in Yourself, Don't be a Jerk to Others, and Toss Outdated Beliefs"
+
+The next part is about everyday problem-solving and life enriching. Jane Roberts is coming with practical advice here like "stop just thinking about your desires and actually do something." Revolutionary. She says we should trust in our abilities and present situation. So, I should trust in my ability to procrastinate and acknowledge that my present situation is sitting on the couch in my underwear eating cereal. Got it. 
+
+She also talks about societal conditioning making us look outside ourselves for solutions. But, if we just use the methods in her book, we'll get a deeper understanding of ourselves and our personal reality. Sounds like a lot of work. Isn't that why we have therapists?
+
+### "Take Control, Face Your Beliefs, and Stop Believing in Limitations"
+
+Lastly, the author reminds us that we have the power to create our own reality. And there are no limitations except those we believe in. So, if I stop believing in my bank balance, does that mean I can just go on a shopping spree? 
+
+In the end, the author mentions she has two more works contracted for publication. One's a book of poetry and the other is about psychic matters. But do they come with a guide on how to stop burning toast? Now that's the real question.
+
