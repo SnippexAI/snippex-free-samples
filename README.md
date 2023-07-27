@@ -24,7 +24,7 @@ With Chuck Chuckling, every day is a comedy show. So, get ready to laugh out lou
 
 [Click here for Chuck Chuckling's summary of The Art of Lucid Dreaming by Clare R. Johnson (2020)](/Chuck_Chuckling/The_Art_of_Lucid_Dreaming_by_Clare_R._Johnson_and_Chuck_Chuckling.md)
 
-[Click here for Chuck Chuckling's summary of The Nature of Personal Reality by Jane Roberts (1974)](/Chuck_Chuckling/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Chuck Chuckling.md)
+[Click here for Chuck Chuckling's summary of The Nature of Personal Reality by Jane Roberts (1974)](/Chuck_Chuckling/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Chuck_Chuckling.md)
 
 ### Don Digest
 
@@ -67,4 +67,4 @@ Despite his success, Mike retains an open mind, always ready to listen and learn
 
 ![The Nature of Personal Reality Cover](/.covers_225x346/The_Nature_of_Personal_Reality.jpg)
 
-[Click here for Mike Mooney's summary of The Nature of Personal Reality by Jane Roberts (1974)](/Mike_Mooney/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Mike Mooney.md)
+[Click here for Mike Mooney's summary of The Nature of Personal Reality by Jane Roberts (1974)](/Mike_Mooney/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Mike_Mooney.md)
