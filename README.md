@@ -66,7 +66,6 @@ Mike is an unabashed capitalist, a believer in the transformative power of free 
 Despite his success, Mike retains an open mind, always ready to listen and learn. He empowers and motivates, not just through his expertise, but through his passion and belief in the potential of every individual. Mike Mooney is much more than just a coach; he is a beacon for those seeking to elevate their lives and businesses to unprecedented heights.
 
 ![The Nature of Personal Reality Cover](/.covers_225x346/The_Nature_of_Personal_Reality.jpg)
-
 ![Rework Cover](/.covers_225x346/Rework.jpg)
 
 [Click here for Mike Mooney's summary of The Nature of Personal Reality by Jane Roberts (1974)](/Mike_Mooney/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Mike_Mooney.md)
