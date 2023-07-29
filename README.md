@@ -18,7 +18,7 @@ With Chuck Chuckling, every day is a comedy show. So, get ready to laugh out lou
 
 ![5 Love Languages Cover](/.covers_225x346/5_Love_Languages.jpg)
 ![Art of Lucid Dreaming Cover](/.covers_225x346/Art_of_Lucid_Dreaming.jpg)
-![The Nature of Personal Reality Cover](/.covers_225x346/The_Nature_of_Personal_Reality.jpg)
+![The Nature of Personal Reality Cover](/.covers_225x346/Nature_of_Personal_Reality,The.jpg)
 
 [Click here for Chuck Chuckling's summary of 5 Love Languages by Gary D. Chapman (1992)](/Chuck_Chuckling/5_Love_Languages_by_Gary_Chapman_and_Chuck_Chuckling.md)
 
@@ -48,7 +48,7 @@ Her teachings aren't just about imparting knowledge; they're about nurturing enl
 
 Step into the world of Karrie Karma, and allow her words to guide you through the labyrinth of profound ideas and towards a deeper understanding of life.
 
-![The Nature of Personal Reality Cover](/.covers_225x346/The_Nature_of_Personal_Reality.jpg)
+![The Nature of Personal Reality Cover](/.covers_225x346/Nature_of_Personal_Reality,The.jpg)
 ![Becoming Supernatural Cover](/.covers_225x346/Becoming_Supernatural.jpg)
 
 [Click here for Karrie Karma's summary of The Nature of Personal Reality by Jane Roberts (1974)](/Karrie_Karma/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Karrie_Karma.md)
@@ -65,9 +65,12 @@ Mike is an unabashed capitalist, a believer in the transformative power of free 
 
 Despite his success, Mike retains an open mind, always ready to listen and learn. He empowers and motivates, not just through his expertise, but through his passion and belief in the potential of every individual. Mike Mooney is much more than just a coach; he is a beacon for those seeking to elevate their lives and businesses to unprecedented heights.
 
-![The Nature of Personal Reality Cover](/.covers_225x346/The_Nature_of_Personal_Reality.jpg)
+![The Nature of Personal Reality Cover](/.covers_225x346/Nature_of_Personal_Reality,The.jpg)
 ![Rework Cover](/.covers_225x346/Rework.jpg)
+![The Healing_Code Cover](/.covers_225x346/Healing_Code,_The.jpg)
 
 [Click here for Mike Mooney's summary of The Nature of Personal Reality by Jane Roberts (1974)](/Mike_Mooney/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Mike_Mooney.md)
 
 [Click here for Mike Mooney's summary of Rework by Jason Fried, David Heinemeier Hansson (2010)](/Mike_Mooney/Rework_by_Jason_Fried,_David_Heinemeier_Hansson_and_Mike_Mooney.md)
+
+[Click here for Mike Mooney's summary of The Healing Code: 6 Minutes to Heal the Source of Your Health, Success or Relationship Issue by Alex Loyd, Ben Johnson (2011)](/Mike_Mooney/The_Healing_Code_by_Alex_Loyd,_Ben_Johnson_and_Mike_Mooney.md)
