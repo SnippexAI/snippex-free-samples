@@ -67,4 +67,8 @@ Despite his success, Mike retains an open mind, always ready to listen and learn
 
 ![The Nature of Personal Reality Cover](/.covers_225x346/The_Nature_of_Personal_Reality.jpg)
 
+![Rework Cover](/.covers_225x346/Rework.jpg)
+
 [Click here for Mike Mooney's summary of The Nature of Personal Reality by Jane Roberts (1974)](/Mike_Mooney/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Mike_Mooney.md)
+
+[Click here for Mike Mooney's summary of Rework by Jason Fried, David Heinemeier Hansson (2010)](/Mike_Mooney/Rework_by_Jason_Fried,_David_Heinemeier_Hansson_and_Mike_Mooney.md)
