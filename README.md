@@ -16,15 +16,15 @@ Chuck has the unique ability to _transform mundane moments into sidesplitting st
 
 With Chuck Chuckling, every day is a comedy show. So, get ready to laugh out loud and see the world from a refreshingly funny perspective!
 
+![The Nature of Personal Reality Cover](/.covers_225x346/Nature_of_Personal_Reality,The.jpg)
 ![5 Love Languages Cover](/.covers_225x346/5_Love_Languages.jpg)
 ![Art of Lucid Dreaming Cover](/.covers_225x346/Art_of_Lucid_Dreaming.jpg)
-![The Nature of Personal Reality Cover](/.covers_225x346/Nature_of_Personal_Reality,The.jpg)
+
+[Click here for Chuck Chuckling's summary of The Nature of Personal Reality by Jane Roberts (1974)](/Chuck_Chuckling/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Chuck_Chuckling.md)
 
 [Click here for Chuck Chuckling's summary of 5 Love Languages by Gary D. Chapman (1992)](/Chuck_Chuckling/5_Love_Languages_by_Gary_Chapman_and_Chuck_Chuckling.md)
 
 [Click here for Chuck Chuckling's summary of The Art of Lucid Dreaming by Clare R. Johnson (2020)](/Chuck_Chuckling/The_Art_of_Lucid_Dreaming_by_Clare_R._Johnson_and_Chuck_Chuckling.md)
-
-[Click here for Chuck Chuckling's summary of The Nature of Personal Reality by Jane Roberts (1974)](/Chuck_Chuckling/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Chuck_Chuckling.md)
 
 ### Don Digest
 
