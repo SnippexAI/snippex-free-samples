@@ -73,4 +73,4 @@ Despite his success, Mike retains an open mind, always ready to listen and learn
 
 [Click here for Mike Mooney's summary of Rework by Jason Fried, David Heinemeier Hansson (2010)](/Mike_Mooney/Rework_by_Jason_Fried,_David_Heinemeier_Hansson_and_Mike_Mooney.md)
 
-[Click here for Mike Mooney's summary of The Healing Code: 6 Minutes to Heal the Source of Your Health, Success or Relationship Issue by Alex Loyd, Ben Johnson (2011)](/Mike_Mooney/The_Healing_Code_by_Alex_Loyd,_Ben_Johnson_and_Mike_Mooney.md)
+[Click here for Mike Mooney's summary of The Healing Code by Alex Loyd, Ben Johnson (2011)](/Mike_Mooney/The_Healing_Code_by_Alex_Loyd,_Ben_Johnson_and_Mike_Mooney.md)
