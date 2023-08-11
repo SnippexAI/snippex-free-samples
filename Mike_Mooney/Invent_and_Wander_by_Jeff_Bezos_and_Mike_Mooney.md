@@ -139,7 +139,6 @@ Amazon believes in taking risks. While not all experiments will pay off, a singl
 Amazon's strategy in the face of growth is to scale its failures too. They believe in hiring and retaining versatile and talented employees who can think like owners. This requires investing in employees and using intuition and heart to navigate the way forward.
 
 |**The key takeaway here is that success in business is about taking calculated risks, embracing failures, and constantly innovating. It's about creating a culture that values curiosity, invention, and sheer determination. It's about investing in the right tools, strategies, and people. But most importantly, it's about always keeping the customer at the center of everything you do.**|
-
 | :---------- |
 
 ## 09 | Embracing Opportunities: The Power of Choices and Perseverance
