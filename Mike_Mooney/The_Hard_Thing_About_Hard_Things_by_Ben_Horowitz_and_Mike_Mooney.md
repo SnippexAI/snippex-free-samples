@@ -31,11 +31,8 @@ When their largest customer went bankrupt, the company was left $75 million shor
 
 But, **survival in business is not just about hard decisions, it's about empathy and trust**. Horowitz knew that treating the departing employees fairly was vital for the remaining employees to trust him again. It was a tough journey, but they survived, bringing us to a powerful conclusion - when faced with adversity, it's not the challenges that define you, but your response to them.
 
----
-
-**In the face of adversity, it's not the challenges that define you, but your response to them.**
-
----
+|**In the face of adversity, it's not the challenges that define you, but your response to them.**|
+| :---------- |
 
 ## 03 | Turning Challenges into Triumph: The Horowitz Approach to Business Resilience
 
@@ -49,11 +46,8 @@ The story doesn't end there. When faced with losing clients to a competitor, Hor
 
 So when you find yourself in a seemingly impossible situation, remember to ask yourself, "**What am I not doing?**" This simple question can open up a world of possibilities. 
 
----
-
-**The key to overcoming business challenges is to see every problem as an opportunity in disguise, rally your team, make tough decisions, and never stop asking, "What am I not doing?"**
-
----
+|**The key to overcoming business challenges is to see every problem as an opportunity in disguise, rally your team, make tough decisions, and never stop asking, "What am I not doing?"**|
+| :---------- |
 
 ## 04 | Navigating the Struggle: Resilience, Transparency, and the Art of Facing Corporate Uncertainty
 
@@ -75,7 +69,7 @@ Let's not shy away from the fact that companies often tell themselves lies when 
 
 In the face of existential threats, it's important to confront them directly. **Stop looking for silver bullets** and focus on building a better product. Remember, when things go wrong, don't dwell on what could have been done differently. Instead, **focus on finding a way out of the mess**. 
 
-|In the grand scheme of business, the Struggle is not just inevitable but necessary. It is the crucible that shapes and refines us. So, embrace it, face it head-on, and remember, there are no silver bullets. Only through hard work, resilience, and a solution-oriented approach can we turn the tide in our favor.|
+|**In the grand scheme of business, the Struggle is not just inevitable but necessary. It is the crucible that shapes and refines us. So, embrace it, face it head-on, and remember, there are no silver bullets. Only through hard work, resilience, and a solution-oriented approach can we turn the tide in our favor.**|
 | :----------- |
 
 ## 05 | The Triumvirate of Success: People, Products, Profits - A Blueprint for Business Excellence
@@ -102,9 +96,8 @@ In conclusion, it's important to understand that as a CEO, the ultimate hiring d
 
 Finally, don't let your focus on numbers overshadow the real goals of your company. Discern the difference between supplementing a great product vision with strong metrics and substituting metrics for product vision. 
 
----
-
-Remember, **The secret of business success lies in taking care of the people, the products, and the profits, in that precise order.**
+|Remember, **The secret of business success lies in taking care of the people, the products, and the profits, in that precise order.**|
+| :---------- |
 
 ## 06 | Navigating Transformation: A Comprehensive Guide to Communication, Culture, and Change in Business Success
 
@@ -126,9 +119,8 @@ Job titles and promotions are more than just fancy words on a business card. The
 
 And finally, as your company scales up, be prepared to give ground grudgingly. Implement specialization, organizational design, and process to ensure smooth sailing. **Don't forget to respect entrepreneurs, embrace innovation, and prioritize communication.**
 
----
-
-**In the end, remember this - building a successful company is about balancing all its elements - communication, culture, processes, and people. It's about creating a nurturing environment where merit is rewarded, the team's success is prioritized, and where change is embraced.**
+|**In the end, remember this - building a successful company is about balancing all its elements - communication, culture, processes, and people. It's about creating a nurturing environment where merit is rewarded, the team's success is prioritized, and where change is embraced.**|
+| :---------- |
 
 ## 07 | Navigating Uncertainty: A CEO's Guide to Courage, Vision, and Resilience
 
@@ -146,10 +138,8 @@ Being a CEO also requires you to be a visionary, a peacetime general who can exp
 
 Above all, being a CEO is about having the courage to lead even when you don't know where you're going. It's about facing the pain and making tough decisions. As the legendary boxing trainer Cus D'Amato said, the difference between a hero and a coward is not in how they feel, but in what they do.
 
----
-
-**At the end of the day, remember this: Being a CEO is a journey, not a destination. It's about learning, growing, and, most importantly, leading, even when the path forward is unclear.**
-
+|**At the end of the day, remember this: Being a CEO is a journey, not a destination. It's about learning, growing, and, most importantly, leading, even when the path forward is unclear.**|
+| :---------- |
 
 ## 08 | Entrepreneurial Wild West: The Audacity, Resilience, and Creativity of Breaking All the Rules
 
@@ -165,9 +155,8 @@ Now, let's talk about another fun part of being a CEO - maintaining a world-clas
 
 And last but not least, comes the gut-wrenching decision of whether to sell a company. It's an emotional and personal decision, with many speculative factors to consider. So, the golden rule here is to remain a standalone company if you're early in a large market and have a good chance of being number one. But, if the answer is no to either of these questions, then selling may be a consideration.
 
----
-
-**Remember, in this unpredictable, thrilling game of entrepreneurship, it's your resilience, creativity, integrity, and judgement that will steer your ship to success.**
+|**Remember, in this unpredictable, thrilling game of entrepreneurship, it's your resilience, creativity, integrity, and judgement that will steer your ship to success.**|
+| :---------- |
 
 ## 09  Embracing Uniqueness and Tenacity: The Inspiring Journey of Andreessen Horowitz
 
