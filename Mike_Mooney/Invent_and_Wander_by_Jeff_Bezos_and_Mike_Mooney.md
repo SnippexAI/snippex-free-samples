@@ -175,7 +175,9 @@ Trust, the author notes, is built through **integrity, competence, and deliverin
 
 ## 11 | Strategic Keys to Business Success: Work-Life Balance, Mission-driven Recruitment, and Environmental Responsibility
 
-_**Work-life harmony**_ isn't about the number of hours you put in at work, but about the energy you bring to the table. When you're energized and happy at work, this bleeds into your personal life, making you a better spouse, parent, and friend. Now, let's talk about business strategy. Recruiting isn't just about competitive compensation or free massages, it's about the mission. High-quality talent isn't lured in by perks, but by purpose. 
+_**Work-life harmony**_ isn't about the number of hours you put in at work, but about the energy you bring to the table. When you're energized and happy at work, this bleeds into your personal life, making you a better spouse, parent, and friend. 
+
+Now, let's talk about business strategy. Recruiting isn't just about competitive compensation or free massages, it's about the mission. High-quality talent isn't lured in by perks, but by purpose. 
 
 When it comes to decisions, it's crucial to understand the difference between irreversible (one-way doors) and reversible (two-way doors) decisions. Don't get caught in analysis paralysis on the latter. Make decisions quickly and keep moving forward. 
 
