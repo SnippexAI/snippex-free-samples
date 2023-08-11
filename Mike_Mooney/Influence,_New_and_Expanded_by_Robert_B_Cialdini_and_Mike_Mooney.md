@@ -1,3 +1,5 @@
+![Influence, New and Expanded Cover](/.covers_225x346/Influence,_New_and_Expanded.jpg)
+
 # Influence, New and Expanded by Robert B. Cialdini
 
 ## Mastering the Art of Influence: Seven Key Principles for Success
