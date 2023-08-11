@@ -69,6 +69,8 @@ Despite his success, Mike retains an open mind, always ready to listen and learn
 ![Rework Cover](/.covers_225x346/Rework.jpg)
 ![The Healing Code Cover](/.covers_225x346/Healing_Code,_The.jpg)
 ![The Hard Things About Hard Things Cover](/.covers_225x346/Hard_Thing_About_Hard_Things.jpg)
+![Invent and Wander Cover](/.covers_225x346/Invent_and_Wander.jpg)
+![Influence, New and Expanded Cover](/.covers_225x346/Influence,_New_and_Expanded.jpg)
 
 [Click here for Mike Mooney's summary of The Nature of Personal Reality by Jane Roberts (1974)](/Mike_Mooney/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Mike_Mooney.md)
 
