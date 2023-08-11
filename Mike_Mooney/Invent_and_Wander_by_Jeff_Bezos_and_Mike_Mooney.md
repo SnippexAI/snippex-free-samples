@@ -209,11 +209,10 @@ Despite the challenges faced while raising capital, Bezos was able to grow Amazo
 
 Bezos acknowledges that Amazon has made mistakes, but emphasizes their **commitment to listening, learning, and making changes**. Despite criticisms, he believes in doing the right thing and not being swayed by external forces.
 
->**"Amazon's success is deeply rooted in the success of small and medium-sized businesses."** 
+**"Amazon's success is deeply rooted in the success of small and medium-sized businesses."** 
 
 Bezos concluded by highlighting Amazon's impact on job creation in the United States. He mentioned the company's investment in training programs to help employees develop skills for future careers.
 
-|**
-Never be afraid to take risks, focus on the customer, and always be ready to learn and make changes. This is the lifeblood of success.**| 
+|**Never be afraid to take risks, focus on the customer, and always be ready to learn and make changes. This is the lifeblood of success.**| 
 | :---------- |
 
