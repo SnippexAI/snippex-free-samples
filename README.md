@@ -67,10 +67,13 @@ Despite his success, Mike retains an open mind, always ready to listen and learn
 
 ![The Nature of Personal Reality Cover](/.covers_225x346/Nature_of_Personal_Reality,The.jpg)
 ![Rework Cover](/.covers_225x346/Rework.jpg)
-![The Healing_Code Cover](/.covers_225x346/Healing_Code,_The.jpg)
+![The Healing Code Cover](/.covers_225x346/Healing_Code,_The.jpg)
+![The Hard Things About Hard Things Cover](/.covers_225x346/Hard_Thing_About_Hard_Things.jpg)
 
 [Click here for Mike Mooney's summary of The Nature of Personal Reality by Jane Roberts (1974)](/Mike_Mooney/The_Nature_of_Personal_Reality_by_Jane_Roberts_and_Mike_Mooney.md)
 
 [Click here for Mike Mooney's summary of Rework by Jason Fried, David Heinemeier Hansson (2010)](/Mike_Mooney/Rework_by_Jason_Fried,_David_Heinemeier_Hansson_and_Mike_Mooney.md)
 
 [Click here for Mike Mooney's summary of The Healing Code by Alex Loyd, Ben Johnson (2011)](/Mike_Mooney/The_Healing_Code_by_Alex_Loyd,_Ben_Johnson_and_Mike_Mooney.md)
+
+[Click here for Mike Mooney's summary of The Hard Thing About Hard Things by Ben Horowitz (2014)](/Mike_Mooney/The_Hard_Thing_About_Hard_Things_by_Ben_Horowitz_and_Mike_Mooney.md)
