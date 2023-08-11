@@ -124,7 +124,7 @@ Bezos also emphasizes the importance of high standards - they are teachable, con
 At the end of the day, it's all about the customer. They have the power, with easy access to information and high expectations. It keeps companies on their toes, driving the constant cycle of improvement that fuels innovation. 
 
 |**Remember, to remain in the vibrant and dynamic "Day 1", you must become customer-obsessed, embrace failures, innovate constantly, and make high-quality decisions quickly. It's all about creating a culture of high standards and recognizing that what you're really doing is serving the customer.**|
-:---------- |
+| :---------- |
 
 ## 08 | Amazon's Business Philosophy: A Model of Innovation, Risk-Taking and Customer Centricity
 
