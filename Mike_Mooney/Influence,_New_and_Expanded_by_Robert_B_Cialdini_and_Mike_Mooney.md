@@ -69,7 +69,8 @@ In the realm of persuasion, **_the principle of association_** also plays a pivo
 
 Finally, a word of caution: As powerful as the liking rule is, it's crucial to be aware of it. **When we find ourselves liking someone who is trying to sell us something, we should mentally separate the person from the product or deal they're offering.** This way, we can make decisions based on rational considerations and not emotional attachments. 
 
-|**_Remember, your ability to influence or be influenced can often boil down to how much you like or are liked by others. So, keep an eye on your feelings of undue liking to make more informed decisions and avoid being swayed by unrelated factors.**_| :---------- |
+|**Remember, your ability to influence or be influenced can often boil down to how much you like or are liked by others. So, keep an eye on your feelings of undue liking to make more informed decisions and avoid being swayed by unrelated factors.**|
+| :---------- |
 
 ## 04 | Social Proof: Understanding its Influence on Human Behavior and Decision-Making
 
