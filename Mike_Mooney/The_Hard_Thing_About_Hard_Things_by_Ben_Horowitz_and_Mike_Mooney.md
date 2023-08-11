@@ -158,7 +158,7 @@ And last but not least, comes the gut-wrenching decision of whether to sell a co
 |**Remember, in this unpredictable, thrilling game of entrepreneurship, it's your resilience, creativity, integrity, and judgement that will steer your ship to success.**|
 | :---------- |
 
-## 09  Embracing Uniqueness and Tenacity: The Inspiring Journey of Andreessen Horowitz
+## 09 | Embracing Uniqueness and Tenacity: The Inspiring Journey of Andreessen Horowitz
 
 Entrepreneurship is not for the faint of heart. It requires **bravery, tenacity**, and a hefty dose of **self-belief**. Remember the time when Ben Horowitz faced doubts about his abilities as a CEO? He didn't allow those doubts to define him. Instead, he strived to prove his doubters wrong and became the leader that everyone expected him to be.
 
