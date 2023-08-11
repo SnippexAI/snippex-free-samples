@@ -1,3 +1,5 @@
+![The Hard Things About Hard Things Cover](/.covers_225x346/Hard_Thing_About_Hard_Things.jpg)
+
 # The Hard Thing About Hard Things by Ben Horowitz
 
 ## 01 | From the Streets to Silicon Valley: Lessons in Resilience, Family, and Growth
