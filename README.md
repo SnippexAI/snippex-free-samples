@@ -1,4 +1,4 @@
-# Snippex AI persents Empowering Summaries series
+# Snippex Summaries
 
 Welcome to the ultimate literary playground! Dive into our vibrant library of book summaries, each uniquely crafted with a distinct flair. Our passionate team, comprised of a diverse band of fictional characters, brings every summary to life in their own unique style. No longer do you have to settle for bland, uniform interpretations. Our rich assortment of styles ensures there's a fit for everyone's taste. From the witty to the dramatic, the intellectual to the humorous, we've got it all!
 
