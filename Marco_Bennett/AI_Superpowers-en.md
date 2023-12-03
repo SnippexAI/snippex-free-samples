@@ -10,7 +10,7 @@ We’re standing on the brink of an AI epoch, where **China's meteoric rise** in
 
 So let's embrace our inner kindergartener – full of wonder, questions, and a thirst for knowledge. Because the future of AI isn't written in code; it's penned by our **choices and values**. Let's navigate this journey with a sense of purpose, wisdom, and a dash of audacity. Because, at the end of the day, the story of AI is really the story of humanity's boundless potential.
 
-|** The essence of our AI future transcends technology, intertwining with the very fabric of human choice, destiny, and the collective wisdom that guides our path forward. **|
+|**The essence of our AI future transcends technology, intertwining with the very fabric of human choice, destiny, and the collective wisdom that guides our path forward.**|
 | :---------- |
 
 ## 02 | China's AI Sputnik Moment: Embracing the Revolution and Navigating the Future
