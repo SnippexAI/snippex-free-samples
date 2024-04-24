@@ -2,6 +2,8 @@
 
 `How much does the Bitcoin blockchain size increase each month?`
 
+Correct answer: the blockchain grew from 475.51 GB to 567.21 GB in the last 12 months, that's 7.64 GB/month.
+
 ## **Meta Llama 3 Instruct 7B Q8_0 / plaintext / ~8.95 GB of RAM**
 
 The Bitcoin blockchain size has been steadily increasing over the years due to the growing number of transactions and the retention period for unspent outputs (UTXOs).
@@ -51,7 +53,7 @@ Since there is no straightforward percentage that can be applied for all periods
 
 The size of the Bitcoin blockchain increases as new blocks are added approximately every 10 minutes. On average, each block is about 1.3 MB in size, but this can vary. With around 6 blocks per hour, 24 hours a day, and about 30 days per month, the blockchain grows by approximately:
 
-\[ \text{1.3 MB/block} \times 6 \text{ blocks/hour} \times 24 \text{ hours/day} \times 30 \text{ days/month} \approx 5,616 \text{ MB/month} \]
+![image](https://github.com/SnippexAI/snippex-free-samples/assets/910321/831cdb7a-942b-4677-8e36-bdd95e2fc1f4)
 
 That's roughly 5.6 GB per month. This rate can fluctuate based on the actual block sizes and the network conditions.
 
