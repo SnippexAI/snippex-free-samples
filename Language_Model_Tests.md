@@ -2,7 +2,7 @@
 
 `How much does the Bitcoin blockchain size increase each month?`
 
-Correct answer: the blockchain grew from 475.51 GB to 567.21 GB in the last 12 months, that's 7.64 GB/month [according to YCharts](https://ycharts.com/indicators/bitcoin_blockchain_size).
+The BTC blockchain grew from 475.51 GB to 567.21 GB in the last 12 months, that's 7.64 GB/month [according to YCharts](https://ycharts.com/indicators/bitcoin_blockchain_size).
 
 My local Umbrel node shows 644 GB blockchain size though.
 ![image](https://github.com/SnippexAI/snippex-free-samples/assets/910321/d4c2da08-12ac-4573-b9b9-707bb644f910)
