@@ -1,10 +1,8 @@
-# Language Model Tests
+# Language Model Tests (2024-04-24)
 
-## 2024-04-24
+`How much does the Bitcoin blockchain size increase each month?`
 
-### How much does the Bitcoin blockchain size increase each month?
-
-#### Meta Llama 3 Instruct 7B Q8_0 / plaintext / ~8.95 GB of RAM
+## **Meta Llama 3 Instruct 7B Q8_0 / plaintext / ~8.95 GB of RAM**
 
 The Bitcoin blockchain size has been steadily increasing over the years due to the growing number of transactions and the retention period for unspent outputs (UTXOs).
 
@@ -20,7 +18,7 @@ Keep in mind that these numbers are subject to change and may fluctuate dependin
 
 It's worth noting that while the blockchain size is increasing, it's still relatively small compared to other data storage systems. For instance, a single terabyte (1 TB) of storage space can hold approximately 500,000 blocks of Bitcoin data.
 
-#### Meta Llama 3 Instruct 7B Q4_K_M / plaintext / ~5.65 GB of RAM
+## **Meta Llama 3 Instruct 7B Q4_K_M / plaintext / ~5.65 GB of RAM**
 
 The Bitcoin blockchain size has been increasing steadily over the years due to the accumulation of new transactions on the network.
 
@@ -36,7 +34,7 @@ As of February 2023, the total size of the Bitcoin blockchain is approximately 3
 
 Keep in mind that these numbers are estimates and may vary depending on various factors, such as transaction volume, network congestion, and mining activity.
 
-#### Microsoft Phi 3 mini 4k instruct q4 7B Q4_K_M / plaintext / ~3.42 GB of RAM
+## **Microsoft Phi 3 mini 4k instruct q4 7B Q4_K_M / plaintext / ~3.42 GB of RAM**
 
 The growth of the Bitcoin blockchain's size is not consistent on a month-to-month basis due to various factors such as transaction volume, network upgrades, and changes in consensus rules. As of early 2023, the Bitcoin blockchain was approximately 365 gigabytes (GB). However, it's essential to note that this number has been increasing over time.
 
@@ -49,7 +47,7 @@ For example, during peak periods when transaction volumes surge, like at the end
 
 Since there is no straightforward percentage that can be applied for all periods, it's best to analyze historical data or use current trends from recent months to estimate the growth per month more accurately.
 
-#### ChatGPT / gpt-4-turbo-2024-04-09
+## **ChatGPT (gpt-4-turbo-2024-04-09)**
 
 The size of the Bitcoin blockchain increases as new blocks are added approximately every 10 minutes. On average, each block is about 1.3 MB in size, but this can vary. With around 6 blocks per hour, 24 hours a day, and about 30 days per month, the blockchain grows by approximately:
 
@@ -57,7 +55,7 @@ The size of the Bitcoin blockchain increases as new blocks are added approximate
 
 That's roughly 5.6 GB per month. This rate can fluctuate based on the actual block sizes and the network conditions.
 
-#### Claude 3 Sonnet
+## **Claude 3 Sonnet**
 
 The size of the Bitcoin blockchain increases as new blocks containing transaction data are added to it over time. However, the rate at which it grows is not constant, as it depends on several factors:
 
@@ -73,36 +71,36 @@ That said, on average, the Bitcoin blockchain has grown by around 60-70 GB per y
 
 It's worth noting that blockchain pruning (deleting spent transaction data) and lightweight client implementations help control the storage requirements for full blockchain nodes over time.
 
-#### Perplexity
+## **Perplexity**
 
-The size of the Bitcoin blockchain increases each month due to the addition of new blocks containing transactions and other data. The rate of increase can vary depending on factors such as the number of transactions and the block size limit, which is currently set at 1 MB[3][4]. However, there have been proposals to increase the block size limit, such as BIP100, BIP101, Bitcoin XT, Bitcoin Classic, and Bitcoin Unlimited, which could potentially lead to a faster rate of blockchain size growth[3]. Additionally, the implementation of Segregated Witness (SegWit) in 2017 was the first half of the SegWit2x proposal, which aimed to increase the block size to 2 MB through a hard fork in November 2017[3]. However, this hard fork was canceled[3].
+The size of the Bitcoin blockchain increases each month due to the addition of new blocks containing transactions and other data. The rate of increase can vary depending on factors such as the number of transactions and the block size limit, which is currently set at 1 MB[^3][^4]. However, there have been proposals to increase the block size limit, such as BIP100, BIP101, Bitcoin XT, Bitcoin Classic, and Bitcoin Unlimited, which could potentially lead to a faster rate of blockchain size growth[^3]. Additionally, the implementation of Segregated Witness (SegWit) in 2017 was the first half of the SegWit2x proposal, which aimed to increase the block size to 2 MB through a hard fork in November 2017[^3]. However, this hard fork was canceled[^3].
 
-According to YCharts, the Bitcoin blockchain size was at 566.98 GB as of April 22, 2024, up from 475.48 GB one year ago, representing an increase of 19.25%[2]. This indicates that the blockchain size has been growing at a rate of approximately 1.6 GB per month over the past year. However, it's important to note that this rate can fluctuate based on various factors, as mentioned earlier.
+According to YCharts, the Bitcoin blockchain size was at 566.98 GB as of April 22, 2024, up from 475.48 GB one year ago, representing an increase of 19.25%[^2]. This indicates that the blockchain size has been growing at a rate of approximately 1.6 GB per month over the past year. However, it's important to note that this rate can fluctuate based on various factors, as mentioned earlier.
 
 In summary, the size of the Bitcoin blockchain increases each month due to the addition of new blocks containing transactions and other data. The rate of increase can vary depending on factors such as the number of transactions and the block size limit. There have been proposals to increase the block size limit, which could potentially lead to a faster rate of blockchain size growth.
 
-Citations:
-[1] https://beincrypto.com/bitcoin-blockchain-size-ordinals/
-[2] https://ycharts.com/indicators/bitcoin_blockchain_size
-[3] https://en.wikipedia.org/wiki/Bitcoin_scalability_problem
-[4] https://ycharts.com/indicators/bitcoin_average_block_size
-[5] https://www.blockchain.com/explorer/charts/mempool-growth
+[^1]: https://beincrypto.com/bitcoin-blockchain-size-ordinals/
+[^2]: https://ycharts.com/indicators/bitcoin_blockchain_size
+[^3]: https://en.wikipedia.org/wiki/Bitcoin_scalability_problem
+[^4]: https://ycharts.com/indicators/bitcoin_average_block_size
+[^5]: https://www.blockchain.com/explorer/charts/mempool-growth
 
-#### Microsoft Copilot / Balanced
+## **Microsoft Copilot / Balanced**
 
-[1]: https://www.statista.com/statistics/647523/worldwide-bitcoin-blockchain-size/ ""
-[2]: https://beincrypto.com/bitcoin-blockchain-size-ordinals/ ""
-[3]: https://thebitcoinmanual.com/articles/big-btc-blockchain/ ""
+[^6]: https://www.statista.com/statistics/647523/worldwide-bitcoin-blockchain-size/ ""
+[^7]: https://beincrypto.com/bitcoin-blockchain-size-ordinals/ ""
+[^8]: https://thebitcoinmanual.com/articles/big-btc-blockchain/ ""
 
-As of April 11, 2024, the Bitcoin blockchain size was close to reaching **5450 gigabytes**. The database has seen exponential growth, with nearly one gigabyte added every few days¹[1]. This increase in size has been accelerated by the surge in popularity of ordinal inscriptions, adding an additional 24 gigabytes of data since February 2024²[2]. Overall, the blockchain size continues to grow as new blocks are added approximately every 10 minutes, with the speed of around 1 megabyte per hour³[3]. 🚀
+As of April 11, 2024, the Bitcoin blockchain size was close to reaching **5450 gigabytes**. The database has seen exponential growth, with nearly one gigabyte added every few days¹[^6]. This increase in size has been accelerated by the surge in popularity of ordinal inscriptions, adding an additional 24 gigabytes of data since February 2024²[^7]. Overall, the blockchain size continues to grow as new blocks are added approximately every 10 minutes, with the speed of around 1 megabyte per hour³[^8]. 🚀
 
+```
 Source: Conversation with Bing, 4/24/2024
 (1) Bitcoin blockchain size 2009-2024 | Statista. https://www.statista.com/statistics/647523/worldwide-bitcoin-blockchain-size/.
 (2) Bitcoin Blockchain Size Explodes to 480GB Amid Ordinals Craze - BeInCrypto. https://beincrypto.com/bitcoin-blockchain-size-ordinals/.
 (3) How Big Is The Bitcoin Blockchain? - The Bitcoin Manual. https://thebitcoinmanual.com/articles/big-btc-blockchain/.
 (4) Getty Images. https://www.gettyimages.com/detail/photo/crytpocurrency-royalty-free-image/954471176.
-
-#### Google Gemini v2024.03.04
+```
+## **Google Gemini v2024.03.04**
 
 The exact monthly increase of the Bitcoin blockchain size fluctuates, but it's consistently growing. Here's some information to give you an idea:
 
