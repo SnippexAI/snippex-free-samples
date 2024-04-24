@@ -40,6 +40,13 @@ As of February 2023, the total size of the Bitcoin blockchain is approximately 3
 
 Keep in mind that these numbers are estimates and may vary depending on various factors, such as transaction volume, network congestion, and mining activity.
 
+## **Microsoft Phi 3 mini 4k instruct fp 16 7B F16 / plaintext / ~9.63 GB of RAM**
+
+The size of the Bitcoin blockchain does not have a constant monthly increase because new blocks are added only when necessary. However, estimating the average growth per month can be done by considering that on average, around 144 new blocks (approximately 600GB) are mined every year as of early 2023. This would roughly equate to an increase of about 11.1 GB per month under normal mining conditions (keep in mind this figure can fluctuate with the network's hashing power and difficulty adjustments).
+
+
+It's important to note that while new blocks are added regularly, older blocks take up less space over time due to data pruning practices such as Bitcoin Improvement Proposal (BIP) 64. This means newer transactions replace old ones in the blockchain, which can slightly decrease the overall growth rate of the total size if we were to measure it from a historical perspective without taking these factors into account.
+
 ## **Microsoft Phi 3 mini 4k instruct q4 7B Q4_K_M / plaintext / ~3.42 GB of RAM**
 
 The growth of the Bitcoin blockchain's size is not consistent on a month-to-month basis due to various factors such as transaction volume, network upgrades, and changes in consensus rules. As of early 2023, the Bitcoin blockchain was approximately 365 gigabytes (GB). However, it's essential to note that this number has been increasing over time.
